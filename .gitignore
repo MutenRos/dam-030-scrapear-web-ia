@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.blend1
+*.zip
+*.db
+*.sqlite3
+*.bin
+lora-gpu/
+checkpoint-*/
+entrenamiento/
+node_modules/
+tmp/
